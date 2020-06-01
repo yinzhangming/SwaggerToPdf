@@ -144,7 +144,7 @@
                 <version>1.2.0</version>
                 <configuration>
                     <!--此处端口一定要是当前项目启动所用的端口-->
-                    <swaggerInput>http://localhost:8081/GdptCloudPlatform/v2/api-docs</swaggerInput>
+                    <swaggerInput>http://localhost:8083/v2/api-docs</swaggerInput>
                     <outputDir>src/docs/asciidoc/generated</outputDir>
                     <config>
                         <!-- 除了ASCIIDOC之外，还有MARKDOWN和CONFLUENCE_MARKUP可选 -->
