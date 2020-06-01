@@ -1,7 +1,6 @@
-# SwaggerToPdf
-
 # 使用方法
-执行
+
+进入pom.xml 文件里面,修改147行的Swagger文档地址
 
 mvn swagger2markup:convertSwagger2markup
 
